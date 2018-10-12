@@ -1,0 +1,17 @@
+実行環境
+--------------------------
+linux Ubuntu 18.04.1
+python3.6
+pip 18.1
+cv2 (opencv-python) 3.4.3.18
+requests 2.18.4
+webbrowser 
+tkinter
+tkinter.filedialog
+sys
+pyzber 0.1.7
+--------------------------
+実行にはWEBカメラが必要です。
+カメラが起動したらカメラにQRをかざしてください。
+危険なサイトであれば判別した脅威とともに警告が出ます。
+安全であれば読み取ったサイトが開きます。
