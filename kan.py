@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+
 from pyzbar.pyzbar import decode
 import cv2
 import requests
